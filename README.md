@@ -2,7 +2,7 @@
 
 # Introduction
 
-Project created as a practice for the Front End Developer Bootcamp at [Barcelona Activa](https://www.barcelonactiva.cat/).
+Travel Blog main page project created as a practice for the Front End Developer Bootcamp at [Barcelona Activa](https://www.barcelonactiva.cat/).
 
 Coded a responsive design layout using HTML and CSS, with flexbox, media queries and Google Fonts.
 
